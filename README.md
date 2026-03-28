@@ -1,8 +1,6 @@
-# SLAB. / StreetScan
+# SLAB.
 
 Upload a photo of a road, bridge, or sidewalk. Get a full inspection report in seconds.
-
-Built at the GMI Cloud x Kimi Hackathon, March 2026.
 
 ---
 
